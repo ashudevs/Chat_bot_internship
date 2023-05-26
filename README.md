@@ -10,3 +10,4 @@ First you need to install few libraries which are as follows :
 8: transformers
 9: openai
 10: faiss-cpu
+Pls run this in VS Code for good results.
